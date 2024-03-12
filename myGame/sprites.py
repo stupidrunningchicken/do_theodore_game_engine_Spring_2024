@@ -1,5 +1,13 @@
 # This file was created by: Theodore Do
 
+#import libraries
+import pygame as pg
+from mainsettings import * 
+from sprites import *
+import sys
+from os import path 
+from random import randint
+from random import choice 
 vec =pg.math.Vector2
 
 def collide_with_walls(sprite, group, dir):

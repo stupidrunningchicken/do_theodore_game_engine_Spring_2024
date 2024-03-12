@@ -7,7 +7,6 @@ TITLE = "My Game So Fun Fuiyoh"
 
 TILESIZE = 32
 
-
 BLACK = (0,0,0)
 WHITE = (255,255,255)
 BGCOLOR = (0,0,0)

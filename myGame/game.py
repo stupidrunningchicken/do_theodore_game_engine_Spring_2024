@@ -7,6 +7,7 @@ from sprites import *
 import sys
 from os import path 
 from random import randint
+from utils import *
 
 #create a class game
 class Game:
