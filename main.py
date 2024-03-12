@@ -14,7 +14,7 @@ class Game:
     # behold the methods...
     def __init__(self):
         pg.init()
-        # 
+        # hi
         self.screen = pg.display.set_mode((WIDTH, HEIGHT))
         # 
         pg.display.set_caption("My First Video Game")
