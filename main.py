@@ -16,7 +16,7 @@ class Game:
         pg.init()
         # hi
         self.screen = pg.display.set_mode((WIDTH, HEIGHT))
-        # 
+        # set window name
         pg.display.set_caption("My First Video Game")
         # 
         self.clock = pg.time.Clock()
